@@ -1,0 +1,40 @@
+{
+  "name": "partnership-toolkit",
+  "version": "1.0.0",
+  "description": "Premium interactive partnership toolkit page with 3D animations and luxury design",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --listen 3000",
+    "build": "echo 'No build process required - static files'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'",
+    "deploy": "echo 'Deploy to your preferred static hosting service'"
+  },
+  "keywords": [
+    "partnership",
+    "toolkit",
+    "interactive",
+    "3d-animations",
+    "luxury-design",
+    "vanilla-js",
+    "responsive"
+  ],
+  "author": "Luis Gilberto",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/partnership-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/partnership-toolkit/issues"
+  },
+  "homepage": "https://yourusername.github.io/partnership-toolkit"
+}
